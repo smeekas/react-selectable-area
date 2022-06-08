@@ -1,0 +1,15 @@
+.desktop {
+  border: 1px solid green;
+  height: 50vh;
+  width: 50vw;
+  margin: 0 auto;
+  margin-top: 2rem;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  /* width: 100%; */
+}
+.img {
+  width: 10rem;
+  object-fit: cover;
+}
